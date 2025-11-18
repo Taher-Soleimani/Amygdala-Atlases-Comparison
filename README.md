@@ -27,7 +27,8 @@ git clone https://github.com/Taher-Soleimani/Amygdala-Atlases-Comparison.git
 
 If you use this dataset or any part of this repository in your research, please cite:
 
-**Soleymani, T. (2025). Amygdala Definition Across Neuroimaging Atlases. GitHub repository.**  
+**Mehran Zare, Maryam Ardeshir, Katayoun Niki Makleki, MB Taher Soleimani (2025). Amygdala Definition Across Neuroimaging Atlases. GitHub repository.**  
 **https://github.com/Taher-Soleimani/Amygdala-Atlases-Comparison**
 
 This repository is licensed under **Creative Commons Attribution 4.0 International (CC-BY 4.0)**. Users are free to use, modify, and share the content as long as proper credit is given.
+
